@@ -1,0 +1,12 @@
+{
+  "council_models": [
+    "moonshotai/kimi-k2.6",
+    "deepseek/deepseek-v4-flash",
+    "minimax/minimax-m2.7"
+  ],
+  "chairman_enabled": false,
+  "chairman_model": null,
+  "council_timeout_ms": 60000,
+  "frontend_port": 7842,
+  "log_level": "INFO"
+}

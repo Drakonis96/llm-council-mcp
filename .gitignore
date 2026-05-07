@@ -1,0 +1,13 @@
+.secrets
+.secrets.*
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+.venv/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+logs/
+runtime/
